@@ -1,0 +1,44 @@
+Responsive Sign In & Sign Up Form Using HTML & CSS & JS |  Login & Registration Form
+
+Here in this tutorial, you will learn how to make a Responsive Login & 
+Registration form with sliding animation. This vedio is made by using HTML and CSS and 
+little bit of JavaScript.
+
+If this tutorial is helpful for you please like this video and subscribe to my channel to watch more website development tutorials.
+
+Watch More Web Development Tutorials:
+----------------------------------------------
+1. Simple Website Using HTML & CSS
+https://youtu.be/hh-DUbxm0o8
+
+2.Complete Website from Scratch
+https://youtu.be/aqbO3DdUz0s
+
+3.How to create Responsive Navigation Bar
+https://youtu.be/e1C8kLonWNU
+
+#Login #Registration #Sign-up 
+
+
+responsive login and registration form,responsive sign in sign up form,login form,registration form,sign up form,sign in form,sliding login form,sliding sign up form,sliding login and registration form,sliding sign in sign up form,html login form,responsive login form,html tutorials,login form tutorial,signup form tutorial,css tutorial,javascript tutorial,login form using html and css,font awesome tutorial,popup login form,beautiful login form
+
+In today's video, we're going to make an AWESOME login and registration form
+ with awesome sliding animation 
+just by using HTML and CSS and little bit of JavaScript. We'll have a nice 
+blue background, 
+also our sign in & sign up form will be responsive !
+
+Please feel free to donate any amount you think is equal to the value you 
+received from my tutorials .
+
+DONATION : https://paypal.me/truecoder
+
+SOURCE CODE : https://github.com/sefyudem/Sliding-S...
+
+Don't forget to smash the like button and share the video with your friends if you found the video useful. 
+
+Also, click on the bell icon to turn on notifications. This way you'll be notified the moment new videos are uploaded.
+
+Make sure to SUBSCRIBE for more tutorials just like this one !
+
+For business inquiries : ydemghart@gmail.com
